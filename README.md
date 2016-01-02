@@ -15,6 +15,7 @@ Current features:
 Caveats:
 * The KitKat version (1.9.7.7) could register a list of authorized tags to unlock and dismiss the lockscreen. This feature was removed from the module because, from Lollipop onwards, Android comes with Smart Lock, which does the same. Mostly. Well, [not really](https://code.google.com/p/android/issues/detail?id=79928).
 * The KitKat version (1.9.7.7) could also enable NFC when the screen is off, but on Marshmallow that prevents Doze from working, so I commented it out from this version. Uncomment it and experiment at your own peril.
+* Applying changes to the settings of the module requires a reboot.
 * Now with 50% more deprecated code!
 
 Contributors:
