@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFC LockScreenOff Enabler [MM]</string>
+    <string name="device_unlocked">pantalla encendida y desbloqueado</string>
+    <string name="LockedScreenOn">pantalla encendida, pero bloqueado</string>
+    <string name="TaglostMessage">Activado mensaje de etiqueta perdida</string>
+    <string name="pref_description_enable_tag_lost_detection">Notificar a las aplicaciones cuando se pierde una etiqueta NFC</string>
+    <string name="pref_title_enable_nfc_for_lock_state">Activar NFC con</string>
+    <string name="copyright_summary">Copyright © 2012–2014 – qwerty12\nPulse para ver contribuidores.</string>
+	<string name="xposed_description">Activar NFC cuando la pantalla esté apagada, y usar NFC para desbloquear el dispositivo</string>
+    
+    <string-array name="contributors_how">
+    	<item>Desarrollador principal</item>
+    	<item>Soporte para etiquetas perdidas</item>
+    	<item>Desbloqueo por NFC / Maintainer</item>    
+    	<item>Soporte TecTile y 4.1</item>
+    	<item>Soporte HTC One</item>
+    	<item>Soporte básico KitKat</item>
+    	<item>Soporte para más etiquetas</item>
+    	<item>Soporte básico Marshmallow</item>
+    </string-array>
+
+    <string name="contributors_title">Contribuidores</string>
+    <string name="pref_title_debug_mode">Modo Debug</string>
+    <string name="pref_description_debug_mode">Mostrar mensajes de debug en logs</string>
+    <string name="pref_title_show_in_launcher">Mostrar icono en el launcher</string>
+    <string name="pref_description_show_in_launcher">Desactivar esto oculta el icono del launcher, para abrir los ajustes toque el módulo en Xposed Installer</string>
+    <string name="nfc_sounds_to_play">Sonidos NFC</string>
+    <string name="nfc_sounds_to_play_description">Seleccione qué sonidos reproducir ante eventos relacionados con NFC</string>
+    <string name="nfc_sound_start">Sonido de inicio</string>
+    <string name="nfc_sound_end">Sonido de fin</string>
+    <string name="nfc_sound_error">Sonido de error</string>
+    <string name="nfc_sound_taglost">Sonido de etiqueta perdida</string>
+    <string name="translators_title">Traductores</string>
+
+</resources>

@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:5:5-34
+		INJECTED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.NFC
+ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:7:5-62
+	android:name
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:7:22-59
+uses-feature#android.hardware.nfc
+ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:9:5-11:35
+	android:required
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:10:9-44
+application
+ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:13:5-47:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/nephiel/.android/build-cache/920fbf1c996100c88ec827d648b7309993a98df2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/nephiel/.android/build-cache/da64200a63837d9672f1d7ec26ec87013d3976c6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/nephiel/.android/build-cache/c37d0831aab3f28c29685b1efcbe6a297d24c130/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/nephiel/.android/build-cache/f0478ad3d4d44a2e94dc7c309ef44a5a7afa296d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/nephiel/.android/build-cache/6bd86204075c7ca326907ae88313f9d1201a74b5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/nephiel/.android/build-cache/5a57388344a9640f7b66116b693e185f9c71bce7/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:15:9-45
+activity#net.nephiel.nfclockscreenoffenablermm.NFCLockScreenOffEnablerActivity
+ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:17:9-24:20
+	android:label
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:18:13-97
+intent-filter#android.intent.action.MAIN+de.robv.android.xposed.category.MODULE_SETTINGS
+ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:21:25-66
+category#de.robv.android.xposed.category.MODULE_SETTINGS
+ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:22:17-92
+	android:name
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:22:27-89
+activity-alias#net.nephiel.nfclockscreenoffenablermm.Activity-Launcher
+ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:26:9-36:26
+	android:enabled
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:28:13-35
+	android:label
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:30:13-45
+	android:targetActivity
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:31:13-70
+	android:icon
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:27:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:32:13-35:29
+category#android.intent.category.LAUNCHER
+ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:34:27-74
+meta-data#xposedmodule
+ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:38:9-40:36
+	android:value
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:40:13-33
+	android:name
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:39:13-40
+meta-data#xposedminversion
+ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:41:9-43:36
+	android:value
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:43:13-33
+	android:name
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:42:13-44
+meta-data#xposeddescription
+ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:44:9-46:58
+	android:value
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:46:13-55
+	android:name
+		ADDED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml:45:13-45
+uses-sdk
+INJECTED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:25.3.1] /home/nephiel/.android/build-cache/920fbf1c996100c88ec827d648b7309993a98df2/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/nephiel/.android/build-cache/da64200a63837d9672f1d7ec26ec87013d3976c6/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/nephiel/.android/build-cache/c37d0831aab3f28c29685b1efcbe6a297d24c130/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/nephiel/.android/build-cache/f0478ad3d4d44a2e94dc7c309ef44a5a7afa296d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/nephiel/.android/build-cache/6bd86204075c7ca326907ae88313f9d1201a74b5/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/nephiel/.android/build-cache/5a57388344a9640f7b66116b693e185f9c71bce7/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] /home/nephiel/.android/build-cache/920fbf1c996100c88ec827d648b7309993a98df2/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] /home/nephiel/.android/build-cache/920fbf1c996100c88ec827d648b7309993a98df2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/nephiel/.android/build-cache/da64200a63837d9672f1d7ec26ec87013d3976c6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/nephiel/.android/build-cache/c37d0831aab3f28c29685b1efcbe6a297d24c130/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/nephiel/.android/build-cache/f0478ad3d4d44a2e94dc7c309ef44a5a7afa296d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/nephiel/.android/build-cache/6bd86204075c7ca326907ae88313f9d1201a74b5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/nephiel/.android/build-cache/5a57388344a9640f7b66116b693e185f9c71bce7/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] /home/nephiel/.android/build-cache/920fbf1c996100c88ec827d648b7309993a98df2/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] /home/nephiel/.android/build-cache/920fbf1c996100c88ec827d648b7309993a98df2/output/AndroidManifest.xml:26:9-47

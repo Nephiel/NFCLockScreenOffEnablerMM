@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/build/intermediates/res/merged/debug/drawable-xhdpi/undobar.9.png",
+        "source": "/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/res/drawable-xhdpi/undobar.9.png"
+    },
+    {
+        "merged": "/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_undobar_undo.png",
+        "source": "/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/res/drawable-xhdpi/ic_undobar_undo.png"
+    },
+    {
+        "merged": "/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/build/intermediates/res/merged/debug/drawable-xhdpi/undobar_divider.9.png",
+        "source": "/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/res/drawable-xhdpi/undobar_divider.9.png"
+    },
+    {
+        "merged": "/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/build/intermediates/res/merged/debug/drawable-xhdpi/undobar_button_focused.9.png",
+        "source": "/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/res/drawable-xhdpi/undobar_button_focused.9.png"
+    },
+    {
+        "merged": "/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/build/intermediates/res/merged/debug/drawable-xhdpi/undobar_button_pressed.9.png",
+        "source": "/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/src/main/res/drawable-xhdpi/undobar_button_pressed.9.png"
+    }
+]

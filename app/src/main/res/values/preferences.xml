@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_lockstate_titles" translatable="false">
+        <item>@string/device_unlocked</item>
+        <item>@string/LockedScreenOn</item>
+        <!-- <item>@string/ScreenOff</item> -->
+    </string-array>
+    <string name="pref_lockstate_value_unlocked" translatable="false">unlocked</string>
+    <string name="pref_lockstate_value_locked_screen_on" translatable="false">locked_screen_on</string>
+    <!-- <string name="pref_lockstate_value_screen_off" translatable="false">screen_off</string> -->
+    <string-array name="pref_lockstate_values" translatable="false">
+        <item>@string/pref_lockstate_value_unlocked</item>
+        <item>@string/pref_lockstate_value_locked_screen_on</item>
+        <!-- <item>@string/pref_lockstate_value_screen_off</item> -->
+    </string-array>
+    <string-array name="pref_sounds_to_play_entries" translatable="false">
+        <item>@string/nfc_sound_start</item>
+        <item>@string/nfc_sound_end</item>
+        <item>@string/nfc_sound_error</item>
+        <item>@string/nfc_sound_taglost</item>
+    </string-array>
+    <string-array name="pref_sounds_to_play_values" translatable="false">
+        <item>sound_start</item>
+        <item>sound_end</item>
+        <item>sound_error</item>
+        <item>sound_taglost</item>
+    </string-array>
+    <string-array name="pref_default_sounds_to_play" translatable="false">
+        <item>sound_start</item>
+        <item>sound_end</item>
+        <item>sound_error</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contributors" translatable="false">
+        <item>qwerty12</item>
+        <item>madfish73</item>
+        <item>MohammadAG</item>
+        <item>sleavitt</item>
+        <item>vrthe1</item>
+        <item>shantanugoel</item>
+        <item>ns130291</item>
+        <item>Nephiel</item>
+    </string-array>
+    <string-array name="contributors_how">
+    	<item>Main developer</item>
+    	<item>Tag lost support</item>
+    	<item>NFC Unlocking / Maintainer</item>    
+    	<item>TecTile and 4.1 support</item>
+    	<item>HTC One support</item>
+    	<item>Basic KitKat support</item>
+    	<item>Support for more tags</item>
+    	<item>Marshmallow fork</item>
+    </string-array>
+    <string-array name="pref_default_sounds_to_play" translatable="false">
+        <item>sound_start</item>
+        <item>sound_end</item>
+        <item>sound_error</item>
+    </string-array>
+    <string-array name="pref_lockstate_titles" translatable="false">
+        <item>@string/device_unlocked</item>
+        <item>@string/LockedScreenOn</item>
+        <!-- <item>@string/ScreenOff</item> -->
+    </string-array>
+    <string-array name="pref_lockstate_values" translatable="false">
+        <item>@string/pref_lockstate_value_unlocked</item>
+        <item>@string/pref_lockstate_value_locked_screen_on</item>
+        <!-- <item>@string/pref_lockstate_value_screen_off</item> -->
+    </string-array>
+    <string-array name="pref_sounds_to_play_entries" translatable="false">
+        <item>@string/nfc_sound_start</item>
+        <item>@string/nfc_sound_end</item>
+        <item>@string/nfc_sound_error</item>
+        <item>@string/nfc_sound_taglost</item>
+    </string-array>
+    <string-array name="pref_sounds_to_play_values" translatable="false">
+        <item>sound_start</item>
+        <item>sound_end</item>
+        <item>sound_error</item>
+        <item>sound_taglost</item>
+    </string-array>
+    <string-array name="translators" translatable="false">
+        <item>qhq (Current Chinese / 汉语)</item>
+        <item>liveasx (Previous Chinese / 汉语)</item>
+        <item>etatto (French / Français)</item>
+        <item>Alienz (Vietnamese / Tiếng Việt)</item>
+        <item>Nephiel (Spanish / Español)</item>
+        <item>combat44 (Russian / Русский)</item>
+    </string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="DisablePluginTips">To have NFC behaviour return to the default (only enabled when the screen is on and the phone unlocked), either uninstall this mod or disable this module in Xposed Installer.</string>
+    <string name="LockedScreenOn">screen is on, but device is locked</string>
+    <string name="NfcScreenOptionsTitle">Enable NFC, in addition to normal usage, when:</string>
+    <string name="ScreenOff">screen is off (regardless of lock state)</string>
+    <string name="TaglostMessage">Enabled tag lost message</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">NFC LockScreenOff Enabler [MM]</string>
+    <string name="authorized_nfc_tags_description">NFC tags that will unlock your device</string>
+    <string name="authorized_nfc_tags_title">Authorized NFC tags</string>
+    <string name="contributors_title">Contributors</string>
+    <string name="copyright_summary">Copyright © 2012-2014 – qwerty12\nClick for contributors.</string>
+    <string name="device_unlocked">screen is on, device unlocked</string>
+    <string name="menu_settings">Settings</string>
+    <string name="new_tag_detected">New NFC tag detected</string>
+    <string name="nfc_sound_end">End sound</string>
+    <string name="nfc_sound_error">Error sound</string>
+    <string name="nfc_sound_start">Start sound</string>
+    <string name="nfc_sound_taglost">Tag lost sound</string>
+    <string name="nfc_sounds_to_play">NFC sounds to play</string>
+    <string name="nfc_sounds_to_play_description">Select the sounds that should be played when NFC-related events happen</string>
+    <string name="nfc_tags_activity_description">The following NFC tags will unlock your device. Tap an NFC tag with your device to add it, swipe an ID left or right to delete it. NFC while screen off has to be enabled.</string>
+    <string name="not_supported_yet_kitkat">Not yet supported on KitKat</string>
+    <string name="play_tag_lost_sound">Play tag lost sound</string>
+    <string name="pref_description_debug_mode">Show debug messages in logcat</string>
+    <string name="pref_description_enable_tag_lost_detection">Notify applications when an NFC tag is lost</string>
+    <string name="pref_description_play_tag_lost_sound">Play a sound when an NFC tag is lost</string>
+    <string name="pref_description_presence_check_timeout">Change this value to reduce battery consumption when the device is kept on an NFC tag</string>
+    <string name="pref_description_show_in_launcher">Disabling this hides the icon from the launcher, open settings by tapping the module in Xposed Installer</string>
+    <string name="pref_dialog_description_presence_check_timeout">Change the timeout of checking for an NFC tag when the device is placed on one. A higher value means lower battery consumption while the device is on the tag. Values in milliseconds (1s = 1000ms)</string>
+    <string name="pref_lockstate_value_locked_screen_on" translatable="false">locked_screen_on</string>
+    <string name="pref_lockstate_value_unlocked" translatable="false">unlocked</string>
+    <string name="pref_summary_presence_check">Current timeout value:</string>
+    <string name="pref_title_debug_mode">Debug mode</string>
+    <string name="pref_title_enable_nfc_for_lock_state">Enable NFC when</string>
+    <string name="pref_title_presence_check_timeout">Presence check timeout</string>
+    <string name="pref_title_show_in_launcher">Show icon in launcher</string>
+    <string name="settings_migrated">Settings migration successful</string>
+    <string name="tag_already_added">NFC tag already added</string>
+    <string name="tag_unauthorized">Tag deauthorized</string>
+    <string name="title_activity_nfc_tags">Authorized NFC Tags</string>
+    <string name="translators_title">Translators</string>
+    <string name="type_in_name_for_tag">Type a name for the tag:</string>
+    <string name="undo">Undo</string>
+    <string name="unnamed_tag">Unnamed tag</string>
+    <string name="xposed_description">Enable NFC on lockscreen, disable NFC sounds, notify when a tag is lost</string>
+    <style name="UndoBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/undobar</item>
+        <item name="android:clickable">true</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:divider">@drawable/undobar_divider</item>
+        <item name="android:dividerPadding">10dp</item>
+    </style>
+    <style name="UndoBarButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:background">@drawable/undobar_button</item>
+        <item name="android:drawableLeft">@drawable/ic_undobar_undo</item>
+        <item name="android:drawablePadding">12dp</item>
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:text">@string/undo</item>
+    </style>
+    <style name="UndoBarMessage">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+</resources>

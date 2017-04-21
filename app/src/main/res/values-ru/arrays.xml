@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_lockstate_titles">
+        <item>@string/device_unlocked</item>
+        <item>@string/LockedScreenOn</item>
+    </string-array>
+    <string-array name="pref_sounds_to_play_entries">
+        <item>@string/nfc_sound_start</item>
+        <item>@string/nfc_sound_end</item>
+        <item>@string/nfc_sound_error</item>
+        <item>@string/nfc_sound_taglost</item>
+    </string-array>
+    <string-array name="contributors_how">
+        <item>Разработчик</item>
+        <item>Поддержка потери тега</item>
+        <item>NFC разблокировка/Сопровождение</item>
+        <item>Поддержка TecTile и 4.1</item>
+        <item>Поддержка HTC One</item>
+        <item>Поддержка KitKat</item>
+        <item>Поддержка больше тегов</item>
+        <item>Поддержка Marshmallow</item>
+    </string-array>
+</resources>

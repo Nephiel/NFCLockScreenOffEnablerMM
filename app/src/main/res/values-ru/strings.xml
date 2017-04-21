@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC LockScreenOff Enabler [MM]</string>
+    <string name="device_unlocked">Экран включен, телефон разблокирован</string>
+    <string name="LockedScreenOn">Телефон заблокирован, но экран включен</string>
+    <string name="TaglostMessage">Уведомление при потере метки</string>
+    <string name="pref_description_enable_tag_lost_detection">Уведомлять при потере метки NFC</string>
+    <string name="pref_title_enable_nfc_for_lock_state">Включить NFC, когда</string>
+    <string name="copyright_summary">"Авторское право © 2012-2014 – qwerty12
+Нажмите для пожертвования."</string>
+    <string name="xposed_description">Включить NFC, когда экран выключен, и использовать NFC, чтобы разблокировать устройство</string>
+    <string name="contributors_title">Спонсоры</string>
+    <string name="pref_title_debug_mode">Режим отладки</string>
+    <string name="pref_description_debug_mode">Записывать отладочные сообщения в лог</string>
+    <string name="pref_title_show_in_launcher">Показать иконку</string>
+    <string name="pref_description_show_in_launcher">Если иконка будет скрыта из меню приложений, то для открытия настроек нажмите на модуль в Xposed Installer</string>
+    <string name="nfc_sounds_to_play">Звуки NFC</string>
+    <string name="nfc_sounds_to_play_description">Выберите звуки, которые должны быть воспроизведены, когда NFC-связанные события происходят</string>
+    <string name="nfc_sound_start">Звук начала</string>
+    <string name="nfc_sound_end">Звук окончания</string>
+    <string name="nfc_sound_error">Звук ошибки</string>
+    <string name="nfc_sound_taglost">Звук потери метки</string>
+    <string name="translators_title">Переводчики</string>
+</resources>

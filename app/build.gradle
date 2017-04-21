@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "net.nephiel.nfclockscreenoffenablermm"
+        minSdkVersion 20
+        targetSdkVersion 25
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:25.3.1'
+    // replacing this line per https://github.com/rovo89/XposedBridge/wiki/Using-the-Xposed-Framework-API
+    //compile files('libs/XposedBridgeApi-20150213.jar')
+    provided 'de.robv.android.xposed:api:82'
+}

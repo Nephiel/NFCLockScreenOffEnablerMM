@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Active le NFC Verrouillé / Écran éteint [MM]</string>
+    <string name="device_unlocked">l\'écran est allumé, et le périphérique est déverrouillé</string>
+    <string name="LockedScreenOn">le périphérique est verrouillé, et l\'écran est allumé</string>
+    <string name="TaglostMessage">Active le message de perte de balise</string>
+    <string name="pref_description_enable_tag_lost_detection">Notifie les applications lorsqu\'une balise NFC est perdue</string>
+    <string name="pref_title_enable_nfc_for_lock_state">Active le NFC lorsque</string>
+    <string name="copyright_summary">Copyright © 2012–2014 – qwerty12\nCliquez pour les contributeurs.</string>
+    <string name="xposed_description">Active le NFC lorsque l\'écran est éteint, et permet l\'utilisation du NFC pour déverrouiller votre périphérique</string>
+
+    <string-array name="contributors_how">
+        <item>Développeur principal</item>
+        <item>Support de perte de balise</item>
+        <item>Déverrouillage par NFC / Adaptations mineures</item>
+        <item>Support de TecTile et 4.1</item>
+        <item>Support du HTC One</item>
+        <item>Basic KitKat support</item>
+        <item>Support for more tags</item>
+        <item>Marshmallow fork</item>
+    </string-array>
+
+    <string name="contributors_title">Contributeurs</string>
+    <string name="pref_title_debug_mode">Déboguage</string>
+    <string name="pref_description_debug_mode">Écrit des messages de déboguage dans logcat</string>
+    <string name="pref_title_show_in_launcher">Affiche l\'icône dans le lanceur</string>
+    <string name="pref_description_show_in_launcher">Désactiver ceci masque l\'icône dans le lanceur, les réglages resteront accessibles depuis l\'installateur Xposed en tapant sur ce module</string>
+    <string name="nfc_sounds_to_play">Sons NFC à jouer</string>
+    <string name="nfc_sounds_to_play_description">Choisissez le son qui devra être joué lorsque des évènements NFC se produirons</string>
+    <string name="nfc_sound_start">Son de début</string>
+    <string name="nfc_sound_end">Son de fin</string>
+    <string name="nfc_sound_error">Son d\'erreur</string>
+    <string name="nfc_sound_taglost">Son de perte de balise</string>
+    <string name="translators_title">Traducteurs</string>
+
+</resources>

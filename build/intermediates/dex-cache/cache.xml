@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/nephiel/.android/build-cache/5a57388344a9640f7b66116b693e185f9c71bce7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/build/intermediates/pre-dexed/release/classes_e6a3e2d89ae56b4c00cb8cb45ec2e5580b2bf68a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nephiel/.android/build-cache/386c8eba1a266c206a17df4335c78347974c059d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/build/intermediates/pre-dexed/debug/classes_c798a3d6fb43308c1a728526a3fd7ac565b95f19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nephiel/bin/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_09b5a41a15aefa35a20c25bde611cd1e2b0d3217.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nephiel/.android/build-cache/c37d0831aab3f28c29685b1efcbe6a297d24c130/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/build/intermediates/pre-dexed/release/classes_da6c46996f969e9d163c3e442284928a0874ca31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nephiel/bin/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/build/intermediates/pre-dexed/release/support-annotations-25.3.1_9ba7bc37fdf06ae6fbbe1508b01c66ef7616807c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nephiel/.android/build-cache/f0478ad3d4d44a2e94dc7c309ef44a5a7afa296d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/build/intermediates/pre-dexed/release/classes_3ba69570f41c13d013fc94fa05048aad4ea04ae9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nephiel/.android/build-cache/386c8eba1a266c206a17df4335c78347974c059d/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_6fb7f595ea5c363f1f85bb455d1728251b9721c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nephiel/.android/build-cache/da64200a63837d9672f1d7ec26ec87013d3976c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/build/intermediates/pre-dexed/release/classes_8264aa22fed8cef2b8d91c2a05fa05e3702075ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nephiel/.android/build-cache/920fbf1c996100c88ec827d648b7309993a98df2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/build/intermediates/pre-dexed/release/classes_29e62d0f1e33cec9e0e8e975caa8f1450981a27a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nephiel/.android/build-cache/6bd86204075c7ca326907ae88313f9d1201a74b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/nephiel/src/android/NFCLockScreenOffEnablerMM/app/build/intermediates/pre-dexed/release/classes_53065e0c0b383e9727afdfff4a23560800b7f9f8.jar" />
+    </item>
+
+</items>

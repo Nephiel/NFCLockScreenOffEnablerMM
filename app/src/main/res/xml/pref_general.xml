@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Preference
+        android:key="copyright_key"
+        android:summary="@string/copyright_summary"
+        android:title="@string/app_name" />
+
+    <ListPreference
+        android:defaultValue="@string/pref_lockstate_value_locked_screen_on"
+        android:entries="@array/pref_lockstate_titles"
+        android:entryValues="@array/pref_lockstate_values"
+        android:key="enable_nfc_for_lock_state"
+        android:title="@string/pref_title_enable_nfc_for_lock_state" />
+
+    <CheckBoxPreference
+        android:key="TagLostDetecting"
+        android:summary="@string/pref_description_enable_tag_lost_detection"
+        android:title="@string/TaglostMessage" />
+        
+    <MultiSelectListPreference
+        android:defaultValue="@array/pref_default_sounds_to_play"
+        android:entries="@array/pref_sounds_to_play_entries"
+        android:entryValues="@array/pref_sounds_to_play_values"
+        android:key="nfc_sounds_to_play"
+        android:summary="@string/nfc_sounds_to_play_description"
+        android:title="@string/nfc_sounds_to_play" />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="show_in_launcher"
+        android:summary="@string/pref_description_show_in_launcher"
+        android:title="@string/pref_title_show_in_launcher" />
+    
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="debug_mode"
+        android:summary="@string/pref_description_debug_mode"
+        android:title="@string/pref_title_debug_mode" />
+
+</PreferenceScreen>

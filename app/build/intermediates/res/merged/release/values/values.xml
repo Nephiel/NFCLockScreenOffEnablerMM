@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contributors" translatable="false">
+        <item>qwerty12</item>
+        <item>madfish73</item>
+        <item>MohammadAG</item>
+        <item>sleavitt</item>
+        <item>vrthe1</item>
+        <item>shantanugoel</item>
+        <item>ns130291</item>
+        <item>Nephiel</item>
+    </string-array>
+    <string-array name="contributors_how">
+    	<item>Main developer</item>
+    	<item>Tag lost support</item>
+    	<item>NFC Unlocking / Maintainer</item>    
+    	<item>TecTile and 4.1 support</item>
+    	<item>HTC One support</item>
+    	<item>Basic KitKat support</item>
+    	<item>Support for more tags</item>
+    	<item>Marshmallow fork</item>
+    </string-array>
+    <string-array name="pref_default_sounds_to_play" translatable="false">
+        <item>sound_start</item>
+        <item>sound_end</item>
+        <item>sound_error</item>
+    </string-array>
+    <string-array name="pref_lockstate_titles" translatable="false">
+        <item>@string/device_unlocked</item>
+        <item>@string/LockedScreenOn</item>
+        <!-- <item>@string/ScreenOff</item> -->
+    </string-array>
+    <string-array name="pref_lockstate_values" translatable="false">
+        <item>@string/pref_lockstate_value_unlocked</item>
+        <item>@string/pref_lockstate_value_locked_screen_on</item>
+        <!-- <item>@string/pref_lockstate_value_screen_off</item> -->
+    </string-array>
+    <string-array name="pref_sounds_to_play_entries" translatable="false">
+        <item>@string/nfc_sound_start</item>
+        <item>@string/nfc_sound_end</item>
+        <item>@string/nfc_sound_error</item>
+        <item>@string/nfc_sound_taglost</item>
+    </string-array>
+    <string-array name="pref_sounds_to_play_values" translatable="false">
+        <item>sound_start</item>
+        <item>sound_end</item>
+        <item>sound_error</item>
+        <item>sound_taglost</item>
+    </string-array>
+    <string-array name="translators" translatable="false">
+        <item>qhq (Current Chinese / 汉语)</item>
+        <item>liveasx (Previous Chinese / 汉语)</item>
+        <item>etatto (French / Français)</item>
+        <item>Alienz (Vietnamese / Tiếng Việt)</item>
+        <item>Nephiel (Spanish / Español)</item>
+        <item>combat44 (Russian / Русский)</item>
+    </string-array>
+    <string name="LockedScreenOn">screen is on, but device is locked</string>
+    <string name="TaglostMessage">Enabled tag lost message</string>
+    <string name="app_name">NFC LockScreenOff Enabler [MM]</string>
+    <string name="contributors_title">Contributors</string>
+    <string name="copyright_summary">Copyright © 2012–2014 – qwerty12\nClick for contributors.</string>
+    <string name="device_unlocked">screen is on, device unlocked</string>
+    <string name="nfc_sound_end">End sound</string>
+    <string name="nfc_sound_error">Error sound</string>
+    <string name="nfc_sound_start">Start sound</string>
+    <string name="nfc_sound_taglost">Tag lost sound</string>
+    <string name="nfc_sounds_to_play">NFC sounds to play</string>
+    <string name="nfc_sounds_to_play_description">Select the sounds that should be played when NFC-related events happen</string>
+    <string name="pref_description_debug_mode">Show debug messages in logcat</string>
+    <string name="pref_description_enable_tag_lost_detection">Notify applications when an NFC tag is lost</string>
+    <string name="pref_description_show_in_launcher">Disabling this hides the icon from the launcher, open settings by tapping the module in Xposed Installer</string>
+    <string name="pref_lockstate_value_locked_screen_on" translatable="false">locked_screen_on</string>
+    <string name="pref_lockstate_value_unlocked" translatable="false">unlocked</string>
+    <string name="pref_title_debug_mode">Debug mode</string>
+    <string name="pref_title_enable_nfc_for_lock_state">Enable NFC when</string>
+    <string name="pref_title_show_in_launcher">Show icon in launcher</string>
+    <string name="translators_title">Translators</string>
+    <string name="xposed_description">Enable NFC on lockscreen, disable NFC sounds, notify when a tag is lost</string>
+</resources>

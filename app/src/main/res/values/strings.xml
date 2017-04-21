@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFC LockScreenOff Enabler [MM]</string>
+    <string name="device_unlocked">screen is on, device unlocked</string>
+    <string name="LockedScreenOn">screen is on, but device is locked</string>
+    <string name="TaglostMessage">Enabled tag lost message</string>
+    <string name="pref_description_enable_tag_lost_detection">Notify applications when an NFC tag is lost</string>
+    <string name="pref_title_enable_nfc_for_lock_state">Enable NFC when</string>
+    <string name="copyright_summary">Copyright © 2012–2014 – qwerty12\nClick for contributors.</string>
+	<string name="xposed_description">Enable NFC on lockscreen, disable NFC sounds, notify when a tag is lost</string>
+    
+    <string-array name="contributors_how">
+    	<item>Main developer</item>
+    	<item>Tag lost support</item>
+    	<item>NFC Unlocking / Maintainer</item>    
+    	<item>TecTile and 4.1 support</item>
+    	<item>HTC One support</item>
+    	<item>Basic KitKat support</item>
+    	<item>Support for more tags</item>
+    	<item>Marshmallow fork</item>
+    </string-array>
+
+    <string name="contributors_title">Contributors</string>
+    <string name="pref_title_debug_mode">Debug mode</string>
+    <string name="pref_description_debug_mode">Show debug messages in logcat</string>
+    <string name="pref_title_show_in_launcher">Show icon in launcher</string>
+    <string name="pref_description_show_in_launcher">Disabling this hides the icon from the launcher, open settings by tapping the module in Xposed Installer</string>
+    <string name="nfc_sounds_to_play">NFC sounds to play</string>
+    <string name="nfc_sounds_to_play_description">Select the sounds that should be played when NFC-related events happen</string>
+    <string name="nfc_sound_start">Start sound</string>
+    <string name="nfc_sound_end">End sound</string>
+    <string name="nfc_sound_error">Error sound</string>
+    <string name="nfc_sound_taglost">Tag lost sound</string>
+    <string name="translators_title">Translators</string>
+
+</resources>

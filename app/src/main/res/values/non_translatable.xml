@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Please do not copy these anywhere -->
+
+    <string-array name="contributors" translatable="false">
+        <item>qwerty12</item>
+        <item>madfish73</item>
+        <item>MohammadAG</item>
+        <item>sleavitt</item>
+        <item>vrthe1</item>
+        <item>shantanugoel</item>
+        <item>ns130291</item>
+        <item>Nephiel</item>
+    </string-array>
+
+    <!-- Translators, add your names here so you're credited in the app -->
+    <string-array name="translators" translatable="false">
+        <item>qhq (Current Chinese / 汉语)</item>
+        <item>liveasx (Previous Chinese / 汉语)</item>
+        <item>etatto (French / Français)</item>
+        <item>Alienz (Vietnamese / Tiếng Việt)</item>
+        <item>Nephiel (Spanish / Español)</item>
+        <item>combat44 (Russian / Русский)</item>
+    </string-array>
+
+</resources>

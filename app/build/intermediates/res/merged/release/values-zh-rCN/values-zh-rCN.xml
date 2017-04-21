@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contributors_how">
+        <item>主要开发者</item>
+        <item>支持标签失败</item>
+        <item>标签解锁/微调</item>
+        <item>支持TecTile和4.1</item>
+        <item>支持HTC One</item>
+        <item>支持Basic KitKat</item>
+        <item>支持更多标签</item>
+        <item>支持Basic Marshmallow</item>
+    </string-array>
+    <string name="LockedScreenOn">手机处于锁定，但屏幕点亮</string>
+    <string name="TaglostMessage">启用标签丢失信息</string>
+    <string name="app_name">NFC开启锁屏 [MM]</string>
+    <string name="contributors_title">参与者</string>
+    <string name="copyright_summary">版权所有 © 2012–2014 – qwerty12\n点击查看参与者</string>
+    <string name="device_unlocked">屏幕开启, 设备锁定</string>
+    <string name="nfc_sound_end">结束声音</string>
+    <string name="nfc_sound_error">错误声音</string>
+    <string name="nfc_sound_start">开始声音</string>
+    <string name="nfc_sound_taglost">标签失败声音</string>
+    <string name="nfc_sounds_to_play">NFC音效</string>
+    <string name="nfc_sounds_to_play_description">选择当NFC被触发时播放的音效</string>
+    <string name="pref_description_debug_mode">在logcat中显示调试信息</string>
+    <string name="pref_description_enable_tag_lost_detection">当NFC标签失败通知应用程序</string>
+    <string name="pref_description_show_in_launcher">禁用此项在启动器中隐藏图标，可在Xposed中长按模块以打开设置</string>
+    <string name="pref_title_debug_mode">调试模式</string>
+    <string name="pref_title_enable_nfc_for_lock_state">启用NFC为</string>
+    <string name="pref_title_show_in_launcher">在启动器中显示图标</string>
+    <string name="translators_title">翻译者</string>
+    <string name="xposed_description">当屏幕关闭使用NFC来解锁您的设备</string>
+</resources>

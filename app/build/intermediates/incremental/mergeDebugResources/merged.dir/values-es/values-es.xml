@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contributors_how">
+    	<item>Desarrollador principal</item>
+    	<item>Soporte para etiquetas perdidas</item>
+    	<item>Desbloqueo por NFC / Maintainer</item>    
+    	<item>Soporte TecTile y 4.1</item>
+    	<item>Soporte HTC One</item>
+    	<item>Soporte básico KitKat</item>
+    	<item>Soporte para más etiquetas</item>
+    	<item>Soporte básico Marshmallow</item>
+    </string-array>
+    <string name="DisablePluginTips">Para volver al funcionamiento habitual de NFC (activado sólo con la pantalla encendida y desbloqueado), desinstale este módulo o desactívelo en Xposed Installer.</string>
+    <string name="LockedScreenOn">pantalla encendida, pero bloqueado</string>
+    <string name="NfcScreenOptionsTitle">Activar NFC, además del uso normal, con:</string>
+    <string name="ScreenOff">pantalla apagada (esté bloqueado o no)</string>
+    <string name="TaglostMessage">Activado mensaje de etiqueta perdida</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="app_name">NFC LockScreenOff Enabler [MM]</string>
+    <string name="authorized_nfc_tags_description">Etiquetas NFC que desbloquearán su dispositivo</string>
+    <string name="authorized_nfc_tags_title">Etiquetas NFC autorizadas</string>
+    <string name="contributors_title">Contribuidores</string>
+    <string name="copyright_summary">Copyright © 2012-2014 – qwerty12\nPulse para ver contribuidores.</string>
+    <string name="device_unlocked">pantalla encendida y desbloqueado</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="new_tag_detected">Nueva etiqueta NFC detectada</string>
+    <string name="nfc_sound_end">Sonido de fin</string>
+    <string name="nfc_sound_error">Sonido de error</string>
+    <string name="nfc_sound_start">Sonido de inicio</string>
+    <string name="nfc_sound_taglost">Sonido de etiqueta perdida</string>
+    <string name="nfc_sounds_to_play">Sonidos NFC</string>
+    <string name="nfc_sounds_to_play_description">Seleccione qué sonidos reproducir ante eventos relacionados con NFC</string>
+    <string name="nfc_tags_activity_description">Las siguientes etiquetas NFC desbloquearán su dispositivo. Toque una etiqueta NFC con su dispositivo para añadirla, deslice un ID a derecha o izquierda para borrarlo. Debe tener activado NFC con la pantalla bloqueada.</string>
+    <string name="not_supported_yet_kitkat">No soportado todavía en KitKat</string>
+    <string name="play_tag_lost_sound">Reproducir sonido de etiqueta perdida</string>
+    <string name="pref_description_debug_mode">Mostrar mensajes de debug en logs</string>
+    <string name="pref_description_enable_tag_lost_detection">Notificar a las aplicaciones cuando se pierde una etiqueta NFC</string>
+    <string name="pref_description_play_tag_lost_sound">Reproducir un sonido cuando se pierde una etiqueta NFC</string>
+    <string name="pref_description_presence_check_timeout">Cambiar este valor para reducir el consumo de batería cuando el dispositivo se mantiene en contacto con una etiqueta NFC.</string>
+    <string name="pref_description_show_in_launcher">Desactivar esto oculta el icono del launcher, para abrir los ajustes toque el módulo en Xposed Installer</string>
+    <string name="pref_dialog_description_presence_check_timeout">Cambiar cada cuánto tiempo se comprobará una etiqueta NFC en contacto con el dispositivo. Un valor más alto implica menor consumo de batería mientras la etiqueta esté en contacto. Valores en milisegundos (1s = 1000ms)</string>
+    <string name="pref_summary_presence_check">Valor del intervalo actual:</string>
+    <string name="pref_title_debug_mode">Modo Debug</string>
+    <string name="pref_title_enable_nfc_for_lock_state">Activar NFC con</string>
+    <string name="pref_title_presence_check_timeout">Intervalo de comprobación de presencia</string>
+    <string name="pref_title_show_in_launcher">Mostrar icono en el launcher</string>
+    <string name="settings_migrated">Migración de Ajustes con éxito</string>
+    <string name="tag_already_added">Etiqueta NFC ya añadida</string>
+    <string name="tag_unauthorized">Etiqueta desautorizada</string>
+    <string name="title_activity_nfc_tags">Etiquetas NFC autorizadas</string>
+    <string name="translators_title">Traductores</string>
+    <string name="type_in_name_for_tag">Escriba un nombre para la etiqueta:</string>
+    <string name="undo">Deshacer</string>
+    <string name="unnamed_tag">Etiqueta sin nombre</string>
+    <string name="xposed_description">Activar NFC cuando la pantalla esté apagada, y usar NFC para desbloquear el dispositivo</string>
+</resources>
